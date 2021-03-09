@@ -7,5 +7,5 @@
 ## Tecnologias Utilizadas
 
 ### ✔Front-end
-#### - HTML
-#### - JavaScript
+-HTML
+-JavaScript

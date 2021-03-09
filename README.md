@@ -6,5 +6,5 @@
 
 ## ⚡️ Tecnologias Utilizadas ⚡️
 
-##### 🔹HTML
-##### 🔹JavaScript
+### 🔹HTML
+### 🔹JavaScript
